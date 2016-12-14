@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: recipies_list_development
+
+test:
+  adapter: postgresql
+  database: recipies_list_test
